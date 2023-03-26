@@ -1,5 +1,5 @@
 '''
-This is the factorial program
+This is the factorial program with method
 '''
 
 def factro(n):
@@ -12,4 +12,5 @@ def factro(n):
     print(answer)   
 
 n = int(input("Pls enter the no. to find the factorial: "))
+
 fac = factro(n)
